@@ -20,7 +20,7 @@
 ## 不足
 1. 控制台输出4K的限制，日志文件无限制
 
-## 使用示例
+## 示例
 ```
 Trace.d(TAG, " d");
 Trace.i(TAG, " i");
@@ -39,3 +39,7 @@ Trace.file(TAG, new File(Environment.getExternalStorageDirectory().getAbsolutePa
 
 ## 效果
 ![](./pic/log_print.png)
+
+## 其他
+如果你感觉好用，欢迎`star`,`fork`,或访问我的[个人博客](http://www.raiseyang.top/)。
+若对本库有更好的意见或建议，欢迎提issue。
