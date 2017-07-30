@@ -19,4 +19,5 @@ android {
 }
 
 dependencies {
+    compile 'cn.raiseyang:lib_trace:1.0.1'
 }
